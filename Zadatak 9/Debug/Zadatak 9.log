@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\vedro\source\repos\Zadatak 9\Zadatak 9\Source.c(74,9): warning C4033: 'newNode' must return a value
+C:\Users\vedro\source\repos\Zadatak 9\Zadatak 9\Source.c(81): warning C4715: 'newNode': not all control paths return a value
+C:\Users\vedro\source\repos\Zadatak 9\Zadatak 9\Source.c(152): warning C4715: 'findMinimum': not all control paths return a value
+  Zadatak 9.vcxproj -> C:\Users\vedro\source\repos\Zadatak 9\Debug\Zadatak 9.exe
